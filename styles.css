@@ -131,3 +131,27 @@ button {
     justify-content: space-around;
     gap: 48px;
 }
+
+/* Second section end */
+
+.quote {
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 120px;
+}
+
+.quote p {
+    font-weight: 300;
+    font-style: italic;
+    font-size: 36px;
+    align-self: center;
+}
+
+.quote span {
+    font-weight: 700;
+    align-self: flex-end;
+    font-size: 24px;
+    margin-right:16px ;
+}
