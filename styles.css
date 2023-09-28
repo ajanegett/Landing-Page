@@ -155,3 +155,39 @@ button {
     font-size: 24px;
     margin-right:16px ;
 }
+
+/* 3rd Section end */
+
+.mainblue {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+#blue {
+    background-color: #3882F6;
+    display: flex;
+    align-items: center;
+    flex: 1;
+    padding: 30px 100px;
+    justify-content: space-between;
+}
+
+#blue button {
+    border: 1px solid white;
+
+}
+
+h3 {
+    color: #F9FAF8;
+    margin: 0;
+    padding: 0;
+}
+
+.hhh p {
+    color: #E5E7EB;
+    padding: 0;
+    margin: 0;
+}
