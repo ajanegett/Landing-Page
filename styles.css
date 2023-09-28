@@ -191,3 +191,12 @@ h3 {
     padding: 0;
     margin: 0;
 }
+
+.footer{
+    background-color: #1f2937;
+    color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
