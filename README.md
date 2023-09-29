@@ -7,3 +7,5 @@ Image by <a href="https://pixabay.com/users/kareni-5357143/?utm_source=link-attr
 Photo by <a href="https://unsplash.com/@mischievous_penguins?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Casey Horner</a> on <a href="https://unsplash.com/photos/XE2RmuV6ed0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 The quote is AI generated, I respect the author a lot. Just joking.
+
+https://ajanegett.github.io/Landing-Page/
